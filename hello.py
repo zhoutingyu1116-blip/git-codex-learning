@@ -21,3 +21,8 @@ def multiply(a, b):
 
 
 print(multiply(4, 6))
+
+name = "Steve"
+age = 20
+print("My name is", name)
+print("I am", age, "years old.")
