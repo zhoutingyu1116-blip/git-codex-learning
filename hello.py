@@ -26,3 +26,6 @@ name = "Steve"
 age = 20
 print("My name is", name)
 print("I am", age, "years old.")
+
+user_name = input("What is your name?")
+print("Hello,",user_name)
