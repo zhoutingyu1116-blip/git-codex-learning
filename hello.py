@@ -14,3 +14,10 @@ def add(a, b):
 
 
 print(add(3, 5))
+
+
+def multiply(a, b):
+    return a * b
+
+
+print(multiply(4, 6))
