@@ -29,3 +29,8 @@ print("I am", age, "years old.")
 
 user_name = input("What is your name?")
 print("Hello,",user_name)
+
+user_age = int(input("How old are you?"))
+
+print(user_age)
+print(type(user_age))
