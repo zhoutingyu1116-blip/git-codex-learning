@@ -34,3 +34,5 @@ user_age = int(input("How old are you?"))
 
 print(user_age)
 print(type(user_age))
+
+print("Today I continue learning Python and Git.")
