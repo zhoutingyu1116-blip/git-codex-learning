@@ -1,3 +1,5 @@
+print ("Student check program started.")
+
 age = input ("How old are you?")
 age = int (age)
 score = input ("What is your score?")
