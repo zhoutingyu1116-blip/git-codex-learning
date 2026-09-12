@@ -14,3 +14,5 @@ elif score < 60:
     print ("Your score is too low.")
 else:
     print ("You are eligible.")
+
+print ("Student check completed.")
